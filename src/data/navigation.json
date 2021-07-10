@@ -1,0 +1,31 @@
+[
+  {
+        "id": 1,
+        "linkText": "Listings",
+        "child": false,
+        "icon":"list",
+		"link": "/"
+    },
+	{
+        "id": 2,
+        "linkText": "Submit Listings",
+        "child": false,
+        "icon":"list",
+		"link": "/submit-listing"
+    },
+	{
+        "id": 3,
+        "linkText": "My Profile",
+        "child": false,
+        "icon":"list",
+		"link": "/profile"
+    }
+  ,
+	{
+        "id": 4,
+        "linkText": "My Listings",
+        "child": false,
+        "icon":"list",
+		"link": "/profile-listings"
+    }
+]
